@@ -1,0 +1,345 @@
+.homepageRoot {
+    width: 1920px;
+    height: 2730px;
+    background-color: #3f2b46;
+    display: flex;
+    overflow: hidden;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .header {
+    height: 663px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0px 0px 48px 0px;
+  }
+  .element27 {
+    height: 80px;
+    position: relative;
+    min-width: 1920px;
+  }
+  .purpleHeartText {
+    text-align: center;
+    display: flex;
+    font-size: 12px;
+    font-family: Urbanist;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: #5042fb;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    position: absolute;
+    top: 26px;
+    left: 1350px;
+    border-radius: 10px;
+    padding: 4px 30px;
+  }
+  .background35 {
+    height: 80px;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .flexRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px 255px;
+  }
+  .novaIcon {
+    width: 113px;
+    height: 64px;
+    align-self: center;
+    margin: 0px 259px 0px 0px;
+  }
+  .menu {
+    display: flex;
+    flex-direction: row;
+    gap: 44px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 12px 199px 0px 0px;
+  }
+  .background36 {
+    border-color: #fac710;
+    border-style: solid;
+    width: 196px;
+    display: flex;
+    flex-direction: row;
+    gap: 9.67px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 24px;
+    padding: 12px 0px;
+    margin: 1px 0px 0px 0px;
+    border-width: 1px;
+    background: none;
+    box-sizing: content-box;
+    cursor: pointer;
+  }
+  .background36:hover {
+    opacity: 70%;
+  }
+  .wallet1 {
+    width: 16.67px;
+    height: 15px;
+  }
+  .text19 {
+    font-size: 15px;
+    font-family: Urbanist;
+    font-weight: 700;
+    line-height: 22px;
+    color: #ffffff;
+  }
+  .line {
+    width: 1920px;
+    height: 1px;
+  }
+  .flexRow1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 220px;
+    align-items: center;
+    padding: 0px 255px;
+  }
+  .text12 {
+    height: 264px;
+    display: flex;
+    align-self: flex-start;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .text22 {
+    font-size: 56px;
+    font-family: Urbanist;
+    font-weight: 700;
+    line-height: 68px;
+    color: #ffffff;
+    align-self: center;
+    margin: 0px 0px 30px 0px;
+  }
+  .paragraph {
+    font-size: 20px;
+    font-family: Urbanist;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #ebebeb;
+  }
+  .skin {
+    width: 362px;
+    height: 450px;
+  }
+  .explore {
+    height: 1018px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 0px 226px 0px;
+  }
+  .flexRow2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 1040px;
+    align-items: center;
+    margin: 0px 0px 39px 0px;
+  }
+  .text23 {
+    font-size: 36px;
+    font-family: Urbanist;
+    font-weight: 700;
+    line-height: 44px;
+    text-transform: capitalize;
+    color: #ffffff;
+  }
+  .viewAll {
+    display: flex;
+    align-self: flex-end;
+    flex-direction: column;
+    gap: 4px;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 0px 9px 0px;
+  }
+  .text24 {
+    font-size: 14px;
+    font-family: Urbanist;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #ffffff;
+  }
+  .element28 {
+    width: 118px;
+    height: 1px;
+    background-image: linear-gradient(217deg, #e24fe5 0%, #4b50e6 100%);
+  }
+  .list {
+    display: flex;
+    flex-direction: row;
+    gap: 219px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-self: flex-start;
+    margin: 0px 0px 226px 244px;
+  }
+  .background {
+    height: 56px;
+    background-color: #5042fb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    padding: 0px 16px;
+  }
+  .wallet {
+    width: 24px;
+    height: 21px;
+    position: relative;
+  }
+  .path {
+    width: 7.53px;
+    height: 4.65px;
+    position: absolute;
+    top: 8.02px;
+    left: 16.47px;
+  }
+  .pathpath {
+    height: 11.92px;
+    background-image: url("https://file.rendit.io/n/AM9HjEBUG9uGcU0nnwYI.svg");
+    background-size: cover;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 4.54px 10.62px 4.54px 4.77px;
+  }
+  .pathpath1 {
+    width: 8.61px;
+    height: 1.74px;
+  }
+  .background1 {
+    height: 56px;
+    background-color: #9734fb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    padding: 0px 18px;
+  }
+  .fill {
+    height: 12px;
+    background-image: url("https://file.rendit.io/n/MDgc9555eK7Ubo1nNjdb.svg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 4px 11px 4px 4px;
+  }
+  .fill1 {
+    width: 5px;
+    height: 5px;
+  }
+  .text90 {
+    font-size: 24px;
+    font-family: Urbanist;
+    font-weight: 700;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #ffffff;
+    align-self: flex-start;
+    margin: 0px 0px 0px 80px;
+  }
+  .background2 {
+    width: 56px;
+    background-color: #df4848;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    padding: 16px 0px;
+  }
+  .bookmark1 {
+    width: 20px;
+    height: 24px;
+    position: relative;
+  }
+  .whiteRectangle {
+    width: 13px;
+    height: 4px;
+    background-color: rgba(255, 255, 255, 0.4);
+    position: absolute;
+    top: 6px;
+    left: 3px;
+  }
+  .bookmark {
+    width: 20px;
+    height: 24px;
+    position: absolute;
+  }
+  .background37 {
+    width: 1410px;
+    background-image: url("https://file.rendit.io/n/H3pEUYV7qQ4vOZiUgDF2.svg");
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 123px;
+    align-items: center;
+    padding: 87px 255px 80px 255px;
+  }
+  .aboutUs1 {
+    height: 195px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .novaIcon1 {
+    width: 72px;
+    height: 41px;
+    margin: 0px 0px 20px 0px;
+  }
+  .paragraph4 {
+    font-size: 14px;
+    font-family: Urbanist;
+    line-height: 22px;
+    color: #ffffff;
+    align-self: center;
+    margin: 0px 0px 28px 0px;
+  }
+  .listSocial {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    justify-content: center;
+    align-items: center;
+  }
+  .community {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-self: flex-start;
+    margin: 11px 0px 0px 0px;
+  }
