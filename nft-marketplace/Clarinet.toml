@@ -8,6 +8,12 @@ boot_contracts = ["pox", "costs-v2", "bns"]
 
 [project.cache_location]
 path = ".requirements"
+[contracts.nmv-nft]
+path = "contracts/nmv-nft.clar"
+
+[contracts.nmv-token]
+path = "contracts/nmv-token.clar"
+
 [contracts.sip009-trait]
 path = "contracts/sip009-trait.clar"
 
